@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 May 2024 14:52:52 GMT
+Content-Type: text/plain; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+CF-Ray: 8843f44aef0d35db-LHR
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=300
+ETag: W/"19ba2f65e9c70d05025d26e7b9567fef4ab435114a8dd8c33eedca8dc3706837"
+Expires: Wed, 15 May 2024 14:57:52 GMT
+Strict-Transport-Security: max-age=31536000
+Vary: Authorization,Accept-Encoding,Origin
+Via: 1.1 varnish
+access-control-expose-headers: *
+cross-origin-resource-policy: cross-origin
+source-age: 288
+x-cache: HIT
+x-cache-hits: 0
+x-content-type-options: nosniff
+x-fastly-request-id: 87f1a4f59b457f14cd99c57fda9ad3b3bdec568a
+x-frame-options: deny
+x-github-request-id: 16B2:307989:4AC34D:5E1B9A:6644C73F
+x-served-by: cache-lcy-eglc8600081-LCY
+x-timer: S1715784772.372235,VS0,VE1
+x-xss-protection: 1; mode=block
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=paB9Q%2BE6xRGkpiQHgMijK4xiaQnzCpRaenZ234uQCK%2BP2ycXtqwUSLJn8YSwbQsb3ceodADn2zZRm0Gntlpszr5DY0NSXqpp8pXaLge9sBXCXsdpfITCEWlbIwfr7wyFdg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+
